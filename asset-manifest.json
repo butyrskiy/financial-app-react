@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/financial-app-react/static/css/main.c395fc6e.css",
-    "main.js": "/financial-app-react/static/js/main.084f2039.js",
+    "main.css": "/financial-app-react/static/css/main.bdf3a2d6.css",
+    "main.js": "/financial-app-react/static/js/main.caf12105.js",
     "index.html": "/financial-app-react/index.html",
-    "main.c395fc6e.css.map": "/financial-app-react/static/css/main.c395fc6e.css.map",
-    "main.084f2039.js.map": "/financial-app-react/static/js/main.084f2039.js.map"
+    "main.bdf3a2d6.css.map": "/financial-app-react/static/css/main.bdf3a2d6.css.map",
+    "main.caf12105.js.map": "/financial-app-react/static/js/main.caf12105.js.map"
   },
   "entrypoints": [
-    "static/css/main.c395fc6e.css",
-    "static/js/main.084f2039.js"
+    "static/css/main.bdf3a2d6.css",
+    "static/js/main.caf12105.js"
   ]
 }
